@@ -16,10 +16,10 @@ An empty input string or a string without brackets can also be considered "balan
 ## Examples
 
 ```js
-hasBalancedBrackets('[][(){}'); // false
-hasBalancedBrackets('({)}'); // false
-hasBalancedBrackets('({[]})'); // true
-hasBalancedBrackets('text ( is allowed ){rwwrwrrww [] ()}'); // true
+balancedBrackets('[][(){}'); // false
+balancedBrackets('({)}'); // false
+balancedBrackets('({[]})'); // true
+balancedBrackets('text ( is allowed ){rwwrwrrww [] ()}'); // true
 ```
 
 ## Solutions
