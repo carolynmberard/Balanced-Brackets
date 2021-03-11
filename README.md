@@ -108,7 +108,7 @@ Here is another similar solution:
 ## Resources
 _Feel free to PR any useful resources! :)_
 
-* [Sample Slides](https://slides.com/yustynnpanicker/reacto-3-4/)
-* [AlgoExpert Link](https://www.algoexpert.io/questions/Balanced%20Brackets)
+* [Slides (with Alternate Solution)](https://docs.google.com/presentation/d/1vA6Zmp5kArPLxECWpjt3p3IRDsdU5ZsYwgNO2G3hrvs/edit?usp=sharing)
+* [Repl.it](https://repl.it/@carolynmberard/BalancedBrackets#index.js)
 
 ---
